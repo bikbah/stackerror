@@ -1,5 +1,7 @@
 # stackerror
-Simple golang lib to handle errors with stack info
+[![PkgGoDev](https://pkg.go.dev/badge/github.com/bikbah/stackerror)](https://pkg.go.dev/github.com/bikbah/stackerror)
+
+Simple golang package to handle errors with stack info
 
 ## Usage
 
